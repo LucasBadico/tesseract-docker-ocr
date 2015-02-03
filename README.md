@@ -1,4 +1,4 @@
-Experimental a docker image running python-opencv and OCR image pre-processing and text recognition.
+Experimental docker image running python-opencv and OCR image pre-processing and text recognition utilities.
 
 
 tesseract
